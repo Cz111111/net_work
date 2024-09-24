@@ -1,0 +1,10 @@
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\bin\Debug\work3.exe.config
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\bin\Debug\work3.exe
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\bin\Debug\work3.pdb
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.csproj.AssemblyReference.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.Form1.resources
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.Properties.Resources.resources
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.csproj.GenerateResource.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.csproj.CoreCompileInputs.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.exe
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work3\obj\Debug\work3.pdb

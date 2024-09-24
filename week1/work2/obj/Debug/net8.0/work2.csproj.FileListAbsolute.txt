@@ -1,0 +1,15 @@
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\bin\Debug\net8.0\work2.exe
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\bin\Debug\net8.0\work2.deps.json
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\bin\Debug\net8.0\work2.runtimeconfig.json
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\bin\Debug\net8.0\work2.dll
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\bin\Debug\net8.0\work2.pdb
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.AssemblyInfoInputs.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.AssemblyInfo.cs
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.csproj.CoreCompileInputs.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.sourcelink.json
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.dll
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\refint\work2.dll
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.pdb
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\work2.genruntimeconfig.cache
+D:\WHU_学习资料\资料\大三上\net架构\作业\net_work\week1\work2\obj\Debug\net8.0\ref\work2.dll
